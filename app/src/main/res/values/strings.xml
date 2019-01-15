@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CatalogeMovie</string>
+    <string name="search_hint">Cari Film</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">Helsan Firmansyah</string>
+    <string name="email">helsanfirmansyah@gmail.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="next">NEXT</string>
+    <string name="all_movie" >All Movie</string>
+    <string name="no_playing">Now Playing</string>
+    <string name="upcoming">UpComing</string>
+
+</resources>

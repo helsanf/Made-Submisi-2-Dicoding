@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CatalogeMovie</string>
+    <string name="all_movie">Semua Movie</string>
+    <string name="no_playing">Sedang Tayang</string>
+    <string name="upcoming">Yang Akan Datang</string>
+</resources>

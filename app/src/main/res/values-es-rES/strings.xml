@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CatalogeMovie</string>
+    <string name="all_movie">" Toda la pelicula"</string>
+    <string name="no_playing">Jugando ahora</string>
+    <string name="upcoming">Hasta venir</string>
+</resources>
